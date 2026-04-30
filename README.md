@@ -8,5 +8,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=FabricioNunez&theme=radical)](https://git.io/streak-stats)
 
-![Most Used Languages](https://raw.githubusercontent.com/FabricioNunez/github-stats-transparent/output/generated/languages.svg)
+![](https://github-readme-stats.vercel.app/api?username=FabricioNunez&show_icons=true)
 
